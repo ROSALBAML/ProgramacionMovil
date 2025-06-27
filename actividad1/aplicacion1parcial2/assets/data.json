@@ -1,0 +1,24 @@
+{
+  "flowers": [
+    {
+      "name": "Lavanda",
+      "description": "La lavanda es una flor aromática de color morado claro, conocida por su fragancia relajante y usos en aromaterapia."
+    },
+    {
+      "name": "Orquídea Morada",
+      "description": "Elegante y exótica, la orquídea morada simboliza admiración, respeto y dignidad."
+    },
+    {
+      "name": "Petunia Morada",
+      "description": "Flores en forma de trompeta que florecen abundantemente durante todo el verano."
+    },
+    {
+      "name": "Iris Morado",
+      "description": "Flor majestuosa que representa sabiduría, elogios y esperanza."
+    },
+    {
+      "name": "Clematis Morada",
+      "description": "Enredadera con flores grandes en forma de estrella, ideal para pérgolas y vallas."
+    }
+  ]
+}
